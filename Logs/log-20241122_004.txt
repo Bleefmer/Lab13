@@ -1,0 +1,2 @@
+2024-11-22 11:17:56.837 +02:00 [INF] Index action in HomeController was called.
+2024-11-22 11:17:57.029 +02:00 [INF] HTTP GET / responded 200 in 215.8329 ms

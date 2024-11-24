@@ -1,0 +1,8 @@
+2024-11-24 16:42:33.899 +02:00 [INF] This is an information message.
+2024-11-24 16:42:33.942 +02:00 [WRN] This is a warning message.
+2024-11-24 16:42:33.942 +02:00 [ERR] This is an error message.
+2024-11-24 16:42:33.943 +02:00 [FTL] This is a fatal error message.
+2024-11-24 16:46:38.912 +02:00 [INF] This is an information message.
+2024-11-24 16:46:38.974 +02:00 [WRN] This is a warning message.
+2024-11-24 16:46:38.975 +02:00 [ERR] This is an error message.
+2024-11-24 16:46:38.975 +02:00 [FTL] This is a fatal error message.

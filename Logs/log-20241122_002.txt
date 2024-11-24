@@ -1,0 +1,6 @@
+2024-11-22 11:14:28.664 +02:00 [INF] Index action in HomeController was called.
+2024-11-22 11:14:28.875 +02:00 [INF] HTTP GET / responded 200 in 245.4782 ms
+[2024-11-22 11:16:34 INF] Index action in HomeController was called.
+[2024-11-22 11:16:34 INF] HTTP GET / responded 200 in 241.8039 ms
+[2024-11-22 11:16:40 WRN] Privacy action was accessed.
+[2024-11-22 11:16:40 INF] HTTP GET /Home/Privacy responded 200 in 21.3633 ms
